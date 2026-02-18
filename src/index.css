@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.times-new-roman-text {
+  /* The browser will try "Times New Roman" first, then "Times", and finally any generic serif font */
+  font-family: "Times New Roman", Times, serif;
+}
